@@ -1,5 +1,5 @@
 region = "ap-south-1"
-acces_key = "AKIA6DEIYAFECAKV3AND"
+access_key = "AKIA6DEIYAFECAKV3AND"
 secret_key = "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"
 # VPC Block VAriables
 vpc_cidr = "10.0.0.0/16"
