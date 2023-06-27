@@ -16,5 +16,6 @@ resource "aws_internet_gateway" "gw" {
 
   tags = {
     Name = var.internet_gateway
+    Owner =  Vineeth
   }
 }
